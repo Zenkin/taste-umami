@@ -2,5 +2,6 @@
 
 The food ingredients guide is a tool for those who care about their health and want to create gastronomic delights. We are creating a food ingredients guide using machine learning, which allows us to recognize and classify various functional food ingredients, as well as analyze their properties
 
+You can familiarize yourself with our service by clicking on the following [link](https://taste.infochemistry.ru).
 
 ![fishy](https://github.com/Zenkin/taste-umami/blob/main/figs/About_project.png?raw=true)
