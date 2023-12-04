@@ -2,8 +2,8 @@
 
 # Intelligent big data analytics technologies for creating a guide to functional food ingredients
 
-The food ingredients guide is a tool for those who care about their health and want to create gastronomic delights. We are creating a food ingredients guide using machine learning, which allows us to recognize and classify various functional food ingredients, as well as analyze their properties
+Determination of umami flavor intensity is an important task in order to improve product quality, for example, replacing chemically synthesized additives with additives of natural origin. To solve this problem, a cascade algorithm based on CatBoost and BERT was developed. The functionality of the algorithm can be found at the following [link](https://taste.infochemistry.ru).
 
-You can familiarize yourself with our service by clicking on the following [link](https://taste.infochemistry.ru).
+The working principle of the algorithm is shown in the figure below. The desired intensity is fed to the input of the algorithm. The output n is the number of peptides that are closest to the given initial value.
 
 ![fishy](https://github.com/Zenkin/taste-umami/blob/main/figs/About_project.png?raw=true)
