@@ -2,7 +2,7 @@
 
 # Intelligent big data analytics technologies for creating a guide to functional food ingredients
 
-There are about 10,000 taste papillae on our tongue, but we still don't know exactly how we recognize taste. Moreover, it is often difficult to understand what the taste itself is.
+There are about 10,000 taste buds on our tongue, but we still don't know exactly how we recognize taste. Moreover, it is often difficult to understand what the taste itself is.
 
 ![fishy](https://github.com/Zenkin/taste-umami/blob/main/figs/taste.png?raw=true)
 
